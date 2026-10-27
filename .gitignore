@@ -1,0 +1,11 @@
+# Local ticket data and generated reports
+data/*.json
+data/*.csv
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
